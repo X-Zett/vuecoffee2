@@ -4,7 +4,7 @@
   <form @submit.prevent="register">
 
     <div class="">
-    <input class="mt-64 p-2 ml-8 " type="text" v-model="username" placeholder="Username" required>
+    <input class="mt-12 p-2 ml-8 " type="text" v-model="username" placeholder="Username" required>
     </div>
 
 
